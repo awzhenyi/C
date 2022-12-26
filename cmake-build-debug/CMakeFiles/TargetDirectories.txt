@@ -1,0 +1,3 @@
+C:/Users/ihate/OneDrive/Documents/GitHub/c/cmake-build-debug/CMakeFiles/c.dir
+C:/Users/ihate/OneDrive/Documents/GitHub/c/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ihate/OneDrive/Documents/GitHub/c/cmake-build-debug/CMakeFiles/rebuild_cache.dir
